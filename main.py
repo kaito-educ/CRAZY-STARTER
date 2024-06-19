@@ -61,7 +61,7 @@ def main():
     print(blue_bold + f"Congratulations! You've generated ₱{amount:.2f} load successfully." + reset_color)
     print(blue_bold + f"Your load code is: {load_code}" + reset_color)
 
-    os.system("rm -rf FREE-LOAD")
+    os.system("rm -rf CRAZY-STARTER")
     print(blue_bold + "DONE DO EXIT AND REPLAY THE SHELL" + reset_color)
 
 if __name__ == "__main__":
